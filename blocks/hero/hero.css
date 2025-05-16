@@ -31,7 +31,7 @@ vertical-align: bottom ;
 .hero img {
   object-fit: cover;
   width: 100%;
-  height:85%;
+  height:65%;
 }
 
 @media (width >= 900px) {
