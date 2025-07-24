@@ -76,7 +76,7 @@ body {
   display: none;
   margin: 0;
   background-color: var(--background-color);
-  color: var(--text-color);
+  color: whitesmoke;
   font-family: var(--body-font-family);
   font-size: var(--body-font-size-m);
   line-height: 1.6;
@@ -114,7 +114,10 @@ h1 {
 
 }
 
-h2 { font-size: var(--heading-font-size-l); }
+h2 { 
+font-size: var(--heading-font-size-l); 
+color: white;
+}
 
 h3,
 h4,
